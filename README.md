@@ -1,4 +1,4 @@
-﻿📘 Plan de Travail – Application AIDoctor
+﻿📘 Plan de Travail – Application AIDoctor (EXAMEN FLUTTER NTIC20)
 1. Titre du projet
 AIDoctor – Application mobile d’assistance médicale intelligente
 
