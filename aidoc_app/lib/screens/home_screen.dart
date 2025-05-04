@@ -1,3 +1,4 @@
+import 'package:aidoc_app/screens/articles_screen.dart';
 import 'package:flutter/material.dart';
 import 'symptom_checker_screen.dart';
 import 'chat_assistant_screen.dart';
@@ -38,6 +39,16 @@ class HomeScreen extends StatelessWidget {
                   MaterialPageRoute(
                     builder: (_) => const ChatAssistantScreen(),
                   ),
+                );
+              },
+            ),
+            ElevatedButton.icon(
+              icon: const Icon(Icons.article),
+              label: const Text('Torohevitra Ara-pahasalamana'),
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (_) => const ArticlesScreen()),
                 );
               },
             ),
