@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947299951031",
+    "project_id": "aidoctor-8db93",
+    "storage_bucket": "aidoctor-8db93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947299951031:android:64fca341ef69467b474832",
+        "android_client_info": {
+          "package_name": "com.example.aidoc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBSW2tjsgJmrO_IE3KO0vTW_spsOpbufk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

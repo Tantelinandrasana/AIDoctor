@@ -1,3 +1,4 @@
+HEAD
 ﻿Lien du diagramme de fonctionnement:  
 https://www.figma.com/board/uYIr3XWPNM5JVxH2f1oiKZ/Diagramme-AIDoctor?node-id=0-1&t=3cdD9bmuNCmQqc5M-1
 
@@ -81,3 +82,21 @@ Rédaction du rapport, création de la présentation PowerPoint
     • Consultation médicale vidéo ou téléphonique intégrée.
     • Développement d’un vrai moteur d’IA avec NLP (Natural Language Processing).
 
+
+# aidoc_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+ab3632b (firebase and symptom_checkers modified)
