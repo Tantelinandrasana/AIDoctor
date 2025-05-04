@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:947299951031:android:c5d108c94f8c906c474832",
+        "mobilesdk_app_id": "1:947299951031:android:64fca341ef69467b474832",
         "android_client_info": {
-          "package_name": "com.example.aidoctor"
+          "package_name": "com.example.aidoc_app"
         }
       },
       "oauth_client": [],
