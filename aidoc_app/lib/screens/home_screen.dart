@@ -1,3 +1,4 @@
+import 'package:aidoc_app/screens/about_page.dart';
 import 'package:aidoc_app/screens/articles_screen.dart';
 import 'package:flutter/material.dart';
 import 'symptom_checker_screen.dart';
@@ -51,6 +52,15 @@ class HomeScreen extends StatelessWidget {
                   MaterialPageRoute(builder: (_) => const ArticlesScreen()),
                 );
               },
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => const AboutPage()),
+                );
+              },
+              child: const Text('About AIDoctor'),
             ),
           ],
         ),
