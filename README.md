@@ -1,5 +1,5 @@
 ﻿Lien du diagramme de fonctionnement:  
-<!-- https://www.figma.com/board/uYIr3XWPNM5JVxH2f1oiKZ/Diagramme-AIDoctor?node-id=0-1&t=3cdD9bmuNCmQqc5M-1 -->
+https://www.figma.com/board/uYIr3XWPNM5JVxH2f1oiKZ/Diagramme-AIDoctor?node-id=0-1&t=3cdD9bmuNCmQqc5M-1
 
 📘 Plan de Travail – Application AIDoctor (EXAMEN FLUTTER NTIC20)
 1. Titre du projet
